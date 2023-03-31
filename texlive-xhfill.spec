@@ -1,6 +1,6 @@
 Name:		texlive-xhfill
 Version:	22575
-Release:	1
+Release:	2
 Summary:	Extending \hrulefill
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xhfill
