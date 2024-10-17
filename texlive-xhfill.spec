@@ -3,7 +3,7 @@ Version:	22575
 Release:	2
 Summary:	Extending \hrulefill
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xhfill
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xhfill
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xhfill.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xhfill.doc.r%{version}.tar.xz
